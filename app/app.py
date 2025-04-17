@@ -1,22 +1,22 @@
-# app/app.py
+# app.py
 import streamlit as st
-import pandas as pd
-import joblib
+import pickle
 
-# 1) Modelni yuklash
-model = joblib.load("../models/model.pkl")
+# Modelni yuklash
+with open("model/model.pkl", "rb") as f:
+    model = pickle.load(f)
+with open("model/label_encoder.pkl", "rb") as f:
+    le = pickle.load(f)
 
-# 2) UI elementi
-st.title("Yangi Futbolchi Pozitsiyasini Bashorat Qilish")
+# Interfeys
+st.title("⚽ Yangi futbolchi uchun pozitsiyani aniqlash")
 
-speed = st.slider("Tezlik", 0, 100)
-strength = st.slider("Kuch", 0, 100)
-passing = st.slider("Pas", 0, 100)
-shooting = st.slider("Zarba", 0, 100)
+age = st.slider("Yosh", 16, 40, 22)
+matches = st.number_input("O'yinlar soni", 0, 1000, 20)
+goals = st.number_input("Gollar", 0, 100, 5)
+assists = st.number_input("Assistlar", 0, 100, 3)
 
-input_df = pd.DataFrame([[speed, strength, passing, shooting]],
-                        columns=["speed","strength","passing","shooting"])
-
-if st.button("Pozitsiyani aniqlash"):
-    pred = model.predict(input_df)
-    st.success(f"Tavsiya etilgan pozitsiya: {pred[0]}")
+if st.button("Taxmin qilish"):
+    prediction = model.predict([[age, matches, goals, assists]])
+    position = le.inverse_transform(prediction)[0]
+    st.success(f"✅ Taxmin qilingan pozitsiya: **{position}**")
