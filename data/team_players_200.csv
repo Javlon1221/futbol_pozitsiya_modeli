@@ -1,0 +1,201 @@
+name,age,matches,goals,assists,yellow_cards,red_cards,predicted_position
+Lionel Messi,19,701,220,156,36,10,Right Winger
+Cristiano Ronaldo,22,421,52,69,32,3,Right Back
+Kylian Mbappé,33,35,16,1,40,8,Attacking Midfield
+Erling Haaland,39,621,234,62,23,10,Central Midfield
+Neymar Jr,32,759,334,41,0,2,Sweeper
+Kevin De Bruyne,32,192,33,42,4,5,Sweeper
+Luka Modrić,40,756,271,253,42,10,Defensive Midfield
+Robert Lewandowski,37,468,183,234,48,3,Goalkeeper
+Sadio Mané,30,592,284,119,43,4,Centre-Forward
+Mohamed Salah,37,138,64,68,9,3,Goalkeeper
+Harry Kane,31,836,63,140,30,6,Left Back
+Karim Benzema,33,104,17,11,35,10,Goalkeeper
+Son Heung-min,26,507,105,15,33,0,Goalkeeper
+Vinícius Júnior,32,776,34,269,15,6,Attacking Midfield
+Jude Bellingham,22,301,105,59,35,5,Sweeper
+Bruno Fernandes,21,472,173,17,43,6,Right Winger
+Riyad Mahrez,35,396,31,183,32,2,Right Winger
+Pedri,34,485,126,174,3,1,Goalkeeper
+Gavi,28,314,103,71,6,3,Right Back
+Frenkie de Jong,19,243,44,64,4,6,Goalkeeper
+Riley Taylor_20,16,647,259,254,7,10,Right Winger
+Riley Williams_21,21,92,21,42,43,3,Defensive Midfield
+Casey Miller_22,16,824,136,134,48,10,Centre-Forward
+Jamie Brown_23,36,267,2,60,3,6,Sweeper
+Cameron Williams_24,21,257,14,45,1,8,Goalkeeper
+Cameron Taylor_25,30,326,69,44,20,4,Central Midfield
+Riley Davis_26,40,882,34,328,31,4,Attacking Midfield
+Avery Davis_27,19,36,13,11,40,10,Attacking Midfield
+Riley Smith_28,23,435,111,32,46,2,Centre-Forward
+Alex Davis_29,19,949,211,355,19,10,Centre-Back
+Taylor Smith_30,36,13,4,0,11,3,Left Winger
+Riley Johnson_31,16,409,39,192,49,0,Left Back
+Avery Davis_32,28,962,274,154,10,3,Centre-Back
+Alex Miller_33,35,595,296,97,23,1,Centre-Forward
+Riley Johnson_34,33,959,281,36,7,8,Right Back
+Alex Davis_35,38,683,30,114,16,9,Centre-Forward
+Jordan Johnson_36,30,213,42,75,31,5,Centre-Back
+Taylor Miller_37,20,693,253,315,29,8,Goalkeeper
+Avery Taylor_38,28,410,168,201,40,9,Centre-Forward
+Jamie Martinez_39,30,220,95,107,13,2,Defensive Midfield
+Morgan Williams_40,29,900,113,420,33,6,Sweeper
+Avery Smith_41,19,143,12,56,17,10,Defensive Midfield
+Alex Jones_42,36,593,202,206,0,9,Sweeper
+Casey Williams_43,23,737,218,80,43,0,Centre-Back
+Riley Jones_44,21,905,18,220,34,4,Centre-Forward
+Riley Jones_45,25,920,88,158,35,10,Centre-Back
+Riley Martinez_46,31,212,9,5,2,10,Left Back
+Riley Brown_47,38,184,80,51,50,4,Central Midfield
+Avery Martinez_48,28,489,205,222,50,5,Defensive Midfield
+Casey Davis_49,17,991,347,217,5,1,Left Back
+Jordan Miller_50,40,752,164,34,22,5,Centre-Back
+Jordan Williams_51,31,111,36,17,13,5,Centre-Forward
+Riley Jones_52,21,90,13,3,36,5,Defensive Midfield
+Alex Taylor_53,24,228,29,4,7,7,Centre-Back
+Drew Jones_54,35,896,229,105,11,0,Central Midfield
+Jordan Garcia_55,32,82,5,39,30,9,Defensive Midfield
+Avery Garcia_56,23,501,240,233,24,3,Left Winger
+Jordan Johnson_57,23,463,213,179,38,10,Right Winger
+Riley Brown_58,23,116,55,44,2,2,Left Back
+Jordan Garcia_59,40,315,19,19,26,5,Goalkeeper
+Drew Brown_60,26,46,11,3,47,7,Defensive Midfield
+Morgan Smith_61,16,743,328,312,41,10,Defensive Midfield
+Jordan Taylor_62,37,449,35,60,12,9,Centre-Forward
+Alex Williams_63,23,38,11,15,3,0,Right Back
+Riley Smith_64,31,635,237,211,48,10,Central Midfield
+Taylor Smith_65,34,447,50,120,40,0,Goalkeeper
+Jamie Miller_66,36,947,411,451,11,9,Right Winger
+Avery Jones_67,23,255,93,23,7,2,Centre-Forward
+Drew Martinez_68,34,942,333,261,7,0,Defensive Midfield
+Alex Brown_69,32,357,164,131,39,4,Centre-Back
+Cameron Johnson_70,23,637,230,145,10,5,Goalkeeper
+Drew Johnson_71,32,45,6,4,47,0,Defensive Midfield
+Avery Jones_72,37,508,86,149,4,4,Left Back
+Jordan Taylor_73,18,667,213,314,24,6,Goalkeeper
+Riley Miller_74,20,920,6,256,45,8,Sweeper
+Casey Jones_75,30,480,195,117,46,0,Left Winger
+Riley Brown_76,21,301,61,123,1,10,Attacking Midfield
+Avery Brown_77,28,949,445,68,34,4,Centre-Forward
+Alex Martinez_78,16,143,24,9,0,0,Left Winger
+Cameron Smith_79,17,467,88,196,15,6,Sweeper
+Riley Brown_80,29,429,5,72,50,2,Centre-Back
+Taylor Brown_81,25,914,317,43,17,9,Left Winger
+Cameron Davis_82,36,1000,345,330,26,9,Right Back
+Taylor Williams_83,20,735,243,130,9,5,Sweeper
+Casey Davis_84,24,862,219,44,2,5,Right Winger
+Cameron Brown_85,37,45,13,22,42,1,Left Winger
+Morgan Johnson_86,19,497,212,107,46,10,Attacking Midfield
+Casey Garcia_87,32,497,35,168,34,2,Central Midfield
+Casey Miller_88,17,462,81,38,5,7,Central Midfield
+Alex Taylor_89,22,466,209,98,24,9,Goalkeeper
+Jamie Williams_90,36,49,22,19,22,1,Goalkeeper
+Cameron Johnson_91,39,93,24,44,23,5,Sweeper
+Cameron Williams_92,31,591,116,87,31,3,Centre-Back
+Alex Davis_93,33,643,96,63,14,4,Right Winger
+Cameron Jones_94,18,650,63,225,24,5,Defensive Midfield
+Avery Johnson_95,19,938,231,393,4,2,Goalkeeper
+Taylor Jones_96,40,323,9,148,23,0,Defensive Midfield
+Jamie Miller_97,25,458,104,2,23,10,Defensive Midfield
+Morgan Davis_98,38,42,0,17,17,10,Sweeper
+Jordan Miller_99,22,671,109,214,44,5,Right Winger
+Jamie Smith_100,19,194,89,8,20,3,Centre-Back
+Morgan Taylor_101,32,909,349,340,29,9,Sweeper
+Riley Smith_102,25,455,62,214,33,6,Right Winger
+Taylor Taylor_103,16,731,205,351,38,9,Centre-Back
+Cameron Jones_104,38,594,238,113,31,0,Goalkeeper
+Cameron Garcia_105,16,407,88,135,4,8,Defensive Midfield
+Drew Brown_106,33,206,32,9,49,10,Sweeper
+Riley Miller_107,30,376,23,1,10,8,Left Winger
+Jamie Miller_108,18,851,335,417,39,9,Goalkeeper
+Avery Davis_109,17,613,297,203,36,8,Attacking Midfield
+Casey Williams_110,35,532,152,104,15,3,Left Winger
+Taylor Garcia_111,38,827,29,258,22,9,Left Back
+Jordan Smith_112,39,15,7,7,19,10,Right Winger
+Cameron Smith_113,25,517,245,31,1,10,Centre-Back
+Morgan Jones_114,28,905,389,33,11,9,Left Winger
+Jamie Miller_115,38,461,9,203,14,9,Goalkeeper
+Cameron Jones_116,29,367,1,172,13,3,Left Back
+Avery Williams_117,25,415,174,195,25,4,Sweeper
+Cameron Johnson_118,26,85,29,38,5,4,Sweeper
+Taylor Williams_119,18,756,223,205,49,2,Right Winger
+Cameron Martinez_120,27,974,1,0,27,0,Right Back
+Casey Martinez_121,27,501,248,210,32,3,Left Winger
+Alex Brown_122,35,642,114,96,1,0,Right Winger
+Riley Davis_123,23,731,356,361,14,9,Left Winger
+Taylor Garcia_124,24,818,204,150,36,8,Centre-Forward
+Jamie Taylor_125,21,155,35,54,38,3,Centre-Forward
+Drew Smith_126,31,196,25,97,6,8,Centre-Forward
+Alex Garcia_127,18,711,204,198,48,0,Left Winger
+Morgan Miller_128,39,503,117,66,9,1,Right Back
+Taylor Jones_129,39,712,164,153,13,9,Goalkeeper
+Jamie Brown_130,36,542,155,244,27,5,Right Back
+Jordan Jones_131,27,427,112,196,45,7,Left Winger
+Morgan Martinez_132,38,508,3,232,3,0,Attacking Midfield
+Cameron Smith_133,34,272,100,36,27,3,Defensive Midfield
+Taylor Johnson_134,32,664,117,203,11,8,Left Back
+Cameron Brown_135,20,225,59,93,1,9,Right Back
+Jamie Martinez_136,19,363,112,35,26,10,Right Back
+Avery Brown_137,21,466,82,153,11,9,Left Back
+Taylor Miller_138,28,14,5,0,31,8,Goalkeeper
+Drew Martinez_139,24,347,39,63,4,7,Right Back
+Jordan Brown_140,27,427,11,126,44,0,Attacking Midfield
+Cameron Smith_141,20,12,5,5,29,10,Defensive Midfield
+Casey Johnson_142,31,798,392,20,14,5,Right Back
+Cameron Smith_143,31,632,110,192,24,1,Centre-Back
+Casey Johnson_144,24,836,256,308,38,5,Left Back
+Jamie Williams_145,37,268,115,90,50,3,Right Back
+Drew Garcia_146,22,64,6,5,32,3,Right Winger
+Avery Smith_147,35,47,13,17,7,4,Sweeper
+Avery Johnson_148,34,35,5,4,48,0,Sweeper
+Cameron Smith_149,34,901,433,341,8,5,Defensive Midfield
+Drew Martinez_150,34,67,16,2,49,10,Goalkeeper
+Cameron Smith_151,40,702,351,120,27,8,Sweeper
+Jamie Brown_152,20,36,3,5,44,0,Goalkeeper
+Taylor Garcia_153,23,99,14,45,42,7,Goalkeeper
+Avery Brown_154,30,258,56,79,24,1,Right Back
+Drew Garcia_155,22,458,12,216,29,7,Right Winger
+Taylor Johnson_156,16,247,71,87,43,1,Goalkeeper
+Taylor Martinez_157,33,688,131,34,22,6,Centre-Forward
+Morgan Brown_158,17,795,266,87,10,0,Central Midfield
+Jamie Johnson_159,30,137,19,67,25,9,Right Winger
+Jordan Garcia_160,33,936,55,208,35,9,Left Winger
+Taylor Garcia_161,37,817,291,106,42,1,Right Back
+Riley Garcia_162,39,720,189,37,29,1,Right Winger
+Jordan Smith_163,17,472,71,100,0,0,Attacking Midfield
+Jordan Martinez_164,32,326,80,71,18,8,Right Winger
+Cameron Smith_165,27,564,223,173,31,5,Goalkeeper
+Riley Martinez_166,23,742,17,177,2,6,Defensive Midfield
+Jamie Miller_167,34,756,339,40,4,1,Central Midfield
+Alex Garcia_168,28,408,149,169,35,0,Attacking Midfield
+Jamie Miller_169,28,981,87,472,20,2,Centre-Back
+Riley Garcia_170,29,107,40,28,26,4,Right Winger
+Riley Davis_171,32,452,168,119,28,6,Sweeper
+Jordan Johnson_172,27,692,61,57,47,7,Attacking Midfield
+Avery Garcia_173,33,349,159,56,30,6,Right Back
+Taylor Davis_174,32,196,61,59,23,1,Right Winger
+Riley Davis_175,21,976,117,372,13,3,Left Winger
+Riley Jones_176,39,554,197,118,7,9,Right Back
+Avery Johnson_177,17,357,88,1,45,6,Sweeper
+Drew Martinez_178,31,671,81,5,46,2,Right Back
+Drew Martinez_179,38,391,142,25,2,1,Attacking Midfield
+Morgan Garcia_180,33,237,63,62,34,0,Left Winger
+Drew Brown_181,31,660,263,13,6,9,Central Midfield
+Avery Williams_182,32,200,100,2,43,9,Attacking Midfield
+Jordan Jones_183,29,5,0,2,3,8,Left Winger
+Avery Garcia_184,36,503,132,40,12,9,Right Winger
+Riley Smith_185,36,371,92,81,29,7,Right Back
+Drew Miller_186,38,756,288,232,25,10,Goalkeeper
+Alex Martinez_187,20,82,7,14,31,6,Left Winger
+Casey Davis_188,24,42,9,2,50,2,Attacking Midfield
+Alex Miller_189,17,4,0,2,15,0,Right Winger
+Avery Martinez_190,20,676,130,3,39,8,Goalkeeper
+Jamie Johnson_191,34,193,21,12,49,4,Defensive Midfield
+Taylor Garcia_192,21,670,249,250,14,8,Sweeper
+Riley Garcia_193,16,784,99,341,29,4,Centre-Forward
+Avery Davis_194,17,233,51,84,24,8,Right Winger
+Jamie Miller_195,28,853,339,34,34,9,Centre-Forward
+Avery Taylor_196,20,963,252,387,48,5,Right Back
+Avery Taylor_197,16,945,58,201,41,5,Attacking Midfield
+Cameron Davis_198,16,908,155,71,15,1,Right Back
+Drew Martinez_199,22,87,14,13,38,5,Left Back
